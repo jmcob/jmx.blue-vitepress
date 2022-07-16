@@ -1,0 +1,17 @@
+{
+  "name": "jmx.blue",
+  "version": "1.0.0",
+  "description": "blue",
+  "main": "index.js",
+  "author": "JMCobac",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
