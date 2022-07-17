@@ -1,13 +1,11 @@
-# jmx.blue va grandir
+---
+title: Accueil
+---
 
-*Cette graine plantée aujourd'hui sera un jour un arbre*, dont peut-être la cime sera une fierté pour mon être entier.
+# jmx.blue est un recueil de textes
 
-Mais pour l'instant mon clavier est bien capricieux. Mon inspiration ne s'accorde pas avec mon imagination, et vos yeux saignent peut-être à me lire.
+Ces textes écrits par mes soins ont un theme redondant : **l'amour de Dieu**. Nous le chercherons ensemble si vous le voulez bien.  
 
-::: tip
-Vous pouvez d'ores et déjà lire les textes suivants :
+*Cette graine plantée aujourd'hui sera un jour un arbre, un arbre tendu vers le Seigneur.*
 
-[Je pleure](/crying)
 
-[Donner et demander](/giveAndAsk)
-:::
