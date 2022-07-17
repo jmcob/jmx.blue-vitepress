@@ -15,6 +15,7 @@ export default {
       },
       {
         text: "Textes",
+        items: [{ text: "Introduction", link: "/intro.md" }],
         items: [{ text: "Donner et demander", link: "/giveAndAsk" }],
       },
       { text: "Code", link: "https://www.jmax.dev/" },

@@ -70,7 +70,7 @@ Sans bruit.
 
 
 
-## Introduction
+## Introduction /
 
 Voici une dissertation parfois onirique sur l’Amour, qui tantôt tend vers la didactique, tantôt vers la fiction ou encore d’autres genres.
 C’est à la lumière du Dieu de l'Univers que j’ai pris cette plume. Je cherche à rassembler, non à disperser. Je suis pour l’Amour, l’Amour qui va jusqu’au bout des choses, en Dieu, en Jésus le Christ. L’Amour est le but ultime de chaque homme, consciemment ou non. Il peut être le point final de nos vies. « Le rêve d’une vie c’est l’Amour » dira Cendrillon accompagnée des oiseaux et des souris, se levant un matin avec le soleil, telle une fleur, avant de faire le ménage de la maison de sa belle-mère. Je partage avec Cendrillon.
