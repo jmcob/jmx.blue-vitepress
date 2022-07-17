@@ -15,11 +15,15 @@ export default {
       },
       {
         text: "Textes",
-        items: [{ text: "Introduction", link: "/intro.md" }],
-        items: [{ text: "Donner et demander", link: "/giveAndAsk" }],
+        items: [
+          { text: "Introduction", link: "/intro" },
+          { text: "Donner et demander", link: "/giveAndAsk" },
+        ],
       },
+
       { text: "Code", link: "https://www.jmax.dev/" },
       { text: "Art", link: "https://www.jmxi.art/" },
+      { text: "A propos", link: "/about" },
     ],
   },
 };
