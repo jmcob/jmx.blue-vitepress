@@ -1,4 +1,3 @@
-# welcome to Blue
+# welcome
+
 Cette page grandira.
-
-

@@ -1,15 +1,16 @@
 export default {
   // These are app level configs.
   lang: "fr",
-  title: "jmx.Blue",
+  title: "jmx.blue",
   description: "Quelques mots",
   themeConfig: {
     nav: [
-      { text: "Crying", link: "/crying" },
+      { text: "Code", link: "https://www.jmax.dev/" },
+      { text: "Art", link: "https://www.jmxi.art/" },
       {
-        text: "Dropdown Menu",
+        text: "Texts",
         items: [
-          { text: "Item A", link: "/item-1" },
+          { text: "Crying", link: "/crying" },
           { text: "Item B", link: "/item-2" },
           { text: "Item C", link: "/item-3" },
         ],
