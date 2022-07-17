@@ -25,5 +25,21 @@ export default {
       { text: "Art", link: "https://www.jmxi.art/" },
       { text: "A propos", link: "/about" },
     ],
+    sidebar: [
+      {
+        text: "Poèmes",
+        items: [
+          { text: "Bourrasque", link: "/bourrasque" },
+          { text: "Je pleure des oreilles", link: "/crying" },
+        ],
+      },
+      {
+        text: "Textes",
+        items: [
+          { text: "Introduction", link: "/intro" },
+          { text: "Donner et demander", link: "/giveAndAsk" },
+        ],
+      },
+    ],
   },
 };
