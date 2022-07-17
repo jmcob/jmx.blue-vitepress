@@ -7,9 +7,7 @@ Mais pour l'instant mon clavier est bien capricieux. Mon inspiration ne s'accord
 ::: tip
 Vous pouvez d'ores et déjà lire les textes suivants :
 
-[Je pleure](/crying) 
+[Je pleure](/crying)
 
-[Donner et demander](/giveAndAsk) 
+[Donner et demander](/giveAndAsk)
 :::
-
-[[toc]]

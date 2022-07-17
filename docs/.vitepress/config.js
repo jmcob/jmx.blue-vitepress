@@ -6,15 +6,19 @@ export default {
   themeConfig: {
     logo: "https://en.unesco.org/sites/default/files/open-book.png",
     nav: [
-      { text: "Code", link: "https://www.jmax.dev/" },
-      { text: "Art", link: "https://www.jmxi.art/" },
       {
-        text: "Textes",
+        text: "Poèmes",
         items: [
-          { text: "Je pleure", link: "/crying" },
-          { text: "Donner et demander", link: "/giveAndAsk" },
+          { text: "Bourrasque", link: "/bourrasque" },
+          { text: "Je pleure des oreilles", link: "/crying" },
         ],
       },
+      {
+        text: "Textes",
+        items: [{ text: "Donner et demander", link: "/giveAndAsk" }],
+      },
+      { text: "Code", link: "https://www.jmax.dev/" },
+      { text: "Art", link: "https://www.jmxi.art/" },
     ],
   },
 };
