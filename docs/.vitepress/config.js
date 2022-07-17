@@ -4,7 +4,7 @@ export default {
   title: "jmx.blue",
   description: "Quelques mots",
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "https://en.unesco.org/sites/default/files/open-book.png",
     nav: [
       { text: "Code", link: "https://www.jmax.dev/" },
       { text: "Art", link: "https://www.jmxi.art/" },
