@@ -6,64 +6,39 @@ title: Je pleure
 
 *(lassif)*
 
-Je souffre
+*Je souffre* - d'une sensation - qui alterne entre plaisir et douleur
 
-d'une sensation
+C'est que vous écouter - ma chère, mon cher, mes chers - ne sied pas à mon ouîe,
 
-qui alterne entre plaisir et douleur
-
-C'est que vous écouter
-
-ma chère,
-
-mon cher,
-
-mes chers,
-
-ne sied pas à mon ouîe,
-
-pardon,
+*pardon,*
 
 à mon raisonnement, mon intellect, que dis-je
 
-à moi...
+*à moi...*
 
-en cet instant
+en cet instant - où le vide me prends...
 
-où le vide me prends...
-
-
-Cependant,
+*Cependant,*
 
 si vous me citiez un verset
 
-sans le déformer
+sans le déformer - sans le maltraiter - sans y mettre un ton qui vous serait trop propre - *mais le serai quand même*
 
-sans le maltraiter
+ni vos intonations à vous - si ce n'est celles de notre Esprit commun,
 
-sans y mettre votre ton,
-
-vos intonations,
-
-mais celles de notre Esprit commun,
-
-d'Amour,
+*d'Amour,*
 
 en Le priant
 
-"ô Esprit Saint !"
+*"Esprit Saint !"* - tout en citant
 
 ...
 
-Alors prends un verset,
+Alors prends un verset, n'importe lequel,
 
-n'importe lequel,
+il aura la part belle, nous emmenerait au ciel.
 
-il aura la part belle,
-
-nous emmenerait au ciel
-
-Nous le possèderions
+Nous le possèderions,
 
 comme Israël les champs d'Ephraïm et de Samarie
 
@@ -73,15 +48,11 @@ comme les exilés Canaan jusqu'à Sarepta
 
 et tout le reste d'Israël.
 
-
-
 Alors ta lumière ECLATERAIT comme l'aurore
 
 Tu relèverais les fondations des générations passées
 
 Tu trouverais tes délices dans le Seigneur
-
-
 
 "Je te nourrirai de l'héritage de ton père Jacob
 
