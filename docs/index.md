@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-# jmx.blue est un recueil de textes
+# jmx.blue est un recueil
 
 Ces textes écrits par mes soins ont un theme redondant : **l'amour de Dieu**. Nous le chercherons ensemble si vous le voulez bien.  
 
