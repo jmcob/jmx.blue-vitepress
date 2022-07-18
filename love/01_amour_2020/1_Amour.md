@@ -121,7 +121,7 @@ Il semble que ce soit tout le temps que Dieu guette à notre porte, un jour d’
 
 
 
-## Chapitre Deux : les lys abandonnés
+## Chapitre Deux : les lys abandonnés /
 
 Ils avaient pourtant bonne odeur, 
 Le charme de toutes les fleurs.
@@ -142,6 +142,8 @@ Vous voyez ma mie nous étions amis mais c’est compromis,
 C’est que loin de toi touche mon désarroi bouche de ne pas être roi,
 D’une reine sans faille qui d’un feu de paille rit et fait un brasier,
 Mais mon grand cœur d’émaille, c’est en vain qu’il essaye de prendre ton étoile.
+/
+
 
 Voilà, en comparaison avec la jeunesse que l’Amour veut donner, nous sommes léthargiques. Aujourd’hui, c’est la désolation.
 L’Amour est discret et humble au point que souvent nous ne l’entendons ni ne le voyons. Nous avons peine à le dénicher ; nous n’y croyons pas et donc nous ne lui ouvrons pas. Et si nous le trouvons, sans la persévérance il semble s’évaporer, ce qui flamboyait commence à se ternir de déception. Nous connaissons tous cela. Ce n’est cependant pas la peine de grincer des dents. Ce refroidissement est désagréable, c’est la désolation. Mais elle n’est pas définitive, bonne nouvelle. Je ne suis pas religieux et encore moins Jésuite, alors je ne vous ferai pas de cours à ce sujet ! Si vous ne le savez pas, le concept de désolation vient d’eux. Tout comme le concept de consolation.
@@ -228,7 +230,7 @@ Que le Christ habite en vos cœurs par la foi, que vous soyez enracinés, fondé
 
 
 
-## Chapitre Quatre : la liberté dans la charité
+## Chapitre Quatre : la liberté dans la charité /
 
 
 Un petit texte qui décape et provoque

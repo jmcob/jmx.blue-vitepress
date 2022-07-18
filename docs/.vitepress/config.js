@@ -9,21 +9,32 @@ export default {
       {
         text: "Poèmes",
         items: [
-          { text: "Bourrasque", link: "/bourrasque" },
-          { text: "Je pleure des oreilles", link: "/crying" },
+          { text: "Bourrasque", link: "/poemes/bourrasque" },
+          { text: "Les lys abandonnés", link: "/poemes/lysAbandonnes" },
+          { text: "Je pleure des oreilles", link: "/poemes/crying" },
         ],
       },
       {
         text: "Textes",
         items: [
-          { text: "Introduction", link: "/intro" },
-          { text: "Donner et demander", link: "/giveAndAsk" },
-          { text: "Toujours rendre grace", link: "/rendreGrace" },
+          { text: "Introduction", link: "/textes/intro" },
+          { text: "Donner et demander", link: "/textes/giveAndAsk" },
+          { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
+        ],
+      },
+      {
+        text: "Essais",
+        items: [
+          { text: "Il y a une mère qui t'aime", link: "/essais/marie.md" },
+          {
+            text: "La liberté dans la charité",
+            link: "/essais/liberteCharite.md",
+          },
         ],
       },
       {
         text: "Bible",
-        items: [{ text: "Ephésiens 3,14-19", link: "/ep314" }],
+        items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
       },
 
       { text: "Code", link: "https://www.jmax.dev/" },
@@ -34,21 +45,32 @@ export default {
       {
         text: "Poèmes",
         items: [
-          { text: "Bourrasque", link: "/bourrasque" },
-          { text: "Je pleure des oreilles", link: "/crying" },
+          { text: "Bourrasque", link: "/poemes/bourrasque" },
+          { text: "Les lys abandonnés", link: "/poemes/lysAbandonnes" },
+          { text: "Je pleure des oreilles", link: "/poemes/crying" },
         ],
       },
       {
         text: "Textes",
         items: [
-          { text: "Introduction", link: "/intro" },
-          { text: "Donner et demander", link: "/giveAndAsk" },
-          { text: "Toujours rendre grace", link: "/rendreGrace" },
+          { text: "Introduction", link: "/textes/intro" },
+          { text: "Donner et demander", link: "/textes/giveAndAsk" },
+          { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
+        ],
+      },
+      {
+        text: "Essais",
+        items: [
+          { text: "Il y a une mère qui t'aime", link: "/essais/marie.md" },
+          {
+            text: "La liberté dans la charité",
+            link: "/essais/liberteCharite.md",
+          },
         ],
       },
       {
         text: "Bible",
-        items: [{ text: "Ephésiens 3,14-19", link: "/ep314" }],
+        items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
       },
     ],
   },
