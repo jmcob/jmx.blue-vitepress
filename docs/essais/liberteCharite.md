@@ -1,18 +1,25 @@
 # La liberté dans la charité
 
-Un petit texte qui décape et provoque :  
+## Un petit texte qui décape et provoque :  
+
 >C’est la charité seule qui discerne les fils de Dieu des fils du diable. Ils peuvent tous bien se signer du signe de la Croix du Christ ; tous répondre : Amen ! tous chanter : Alléluia ! ; être tous baptisés, entrer dans les églises, bâtir les murs des basiliques, les fils de Dieu ne se discernent des fils du diable que par la charité. Ceux qui ont la charité sont nés de Dieu ; ceux qui ne l’ont pas ne sont pas nés de Dieu. Là est le grand signe, le grand principe de discernement.  
 >Saint Augustin
+
+## Une charité juste sans quoi elle n'est plus elle même
 
 >Car tu ne prends aucun plaisir au sacrifice ; un holocauste tu n'en veux pas. Le sacrifice à Dieu c'est un esprit brisé ; d'un cœur brisé, broyé, Dieu tu n'as pas de mépris. En ton bon vouloir, fais du bien à Sion : rebâtis les remparts de Jérusalem ! Alors tu te plairas aux sacrifices de justice, - holocauste et totale oblation - alors on offrira de jeunes taureaux sur ton autel.  
 >Psaume 50
 
 La liberté permet de rester crédible et charitable. La parole de Dieu est meilleure que moi à exprimer les choses difficiles. Il peut sembler difficile de paraphraser ce qui selon est complet. Mais je souhaite m’approcher du Royaume de Dieu. Donc je vais y mettre une dose de plus pour mon Seigneur.  
-Je pense à ma conversion avant celle des autres. En effet, si je ne balaie pas devant ma porte, j'aurais bien du mal à rester crédible. Mais je n’écris pas que pour moi ici. D'où une apparente demande de liberté dans la charité. Sinon elle n’est plus charité. Mais n’oublions pas :  
+Je pense à ma conversion avant celle des autres. En effet, si je ne balaie pas devant ma porte, j'aurais bien du mal à rester crédible. Mais je n’écris pas que pour moi ici.  
+
+D'où cette demande de liberté dans la charité. Je ne veux pas dépendre de vous où écrire n'importe quoi. Sinon mmon texte ne serait plus charité. 
+
+Pour commencer n'oublions pas :  
 >Tout ce que vous voulez que les hommes fassent pour vous, faites-le-vous même pour eux.  
 > Matthieu 7,12  
-> 
-Nous pourrions nous poser la question suivante : « Est ce que je peux donner ce que je ne possède pas ? » Plutôt, est ce que je peux donner ce que je ne crois pas être en mesure de donner ? En vérité, je peux donner spirituellement ce que je ne possède pas si je suis un intermédiaire qui donne de la part de Dieu ce qui ne lui appartient pas. Dans ce cas il faut que j'aime. L'Amour comme condition à la Charité. La charité est un don au-delà de nous-même.
+
+Nous pourrions peut être  déjà nous poser la question suivante : « Est ce que je peux donner ce que je ne possède pas ? » Plutôt, est ce que je peux donner ce que je ne crois pas être en mesure de pouvoir donner ? En vérité, je peux donner spirituellement ce que je ne possède pas si je suis un intermédiaire qui donne de la part de Dieu ce qui ne lui appartient pas. Dans ce cas il faut que j'aime. L'Amour comme condition à la Charité. La charité est un don au-delà de nous-même. La charité comme synonyme de l'amour.
 Cela ne se fait sans l’Esprit Saint :
 >Là où est l’Esprit Saint, là aussi est la liberté.  
 >2 Corinthiens 3,17
