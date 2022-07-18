@@ -9,7 +9,7 @@ title: Donner et demander
 
 2 Corinthiens 9
 
-## la liberté dans le don
+## La liberté dans le don
 
 ### L'invitation a être généreux dans la mission
 
@@ -26,6 +26,8 @@ Beaucoup n'entendent pas cette parole. Jésus nous dit seulement le bon usage de
 Toujours Jésus dans Luc 16
 
 Autrement dit si vous m'avez suivi et si je ne me trompe pas, si vous ne donnez pas votre argent aux pauvres, qui vous donnera le vrai bien, la connaissance de Dieu, son Amour ? 
+
+## La liberté dans la demande
 
 Être charitable comme source du bien suprème : la connaissance de Dieu (Philippiens 3,8).
 
