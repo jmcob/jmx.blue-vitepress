@@ -5,6 +5,7 @@ Dès les premiers moments de la scène, avant le moindre signe de Jésus, elle i
  Tout ce qu'il vous dira, faites-le.  
 Donc sa foi n'a pas d'ombre. La parole de l’ange n’a pas pris une ride. Il avait dit avant de partir :  
 > Car rien n'est impossible à Dieu  
+
 Jésus est reconnu juste et parfait par Marie, avant la moindre des œuvres de son Fils. Elle non plus n'a donc pas pris de ride.
 Donnons plus d’importance à ce moment en mettant à jour quelques détails. Jésus vient d'être révélé par Jean le Baptiste comme étant l'agneau de Dieu. Jésus n'a pas encore d'œuvres mis à part la rencontre de ces premiers curieux qui deviendront apôtres. Si pendant sa vie elle a commis une faute, c'est le moment propice pour s'en libérer et vivre ensuite. Il n'en est rien. Marie sait qu'il est le Fils de Dieu, dans son cœur. Elle intercède, ce qui n'est pas possible sans être vrai avec Dieu. L'œuvre de Jésus n'ayant pas débuté, ce moment n'a pas pu avoir lieu. Personne en face de Jésus dans la chair ne l'a reconnu vrai Dieu. Seulement agneau de Dieu pour Jean le Baptiste.
 Si à un dîner auquel je souhaite participer je ne suis pas invité, je demande l'invitation avant de venir. Marie pourtant est déjà présente avant le dîner. Mystère.
