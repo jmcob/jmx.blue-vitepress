@@ -16,7 +16,7 @@ export default {
         ],
       },
       {
-        text: "Textes",
+        text: "Textes courts",
         items: [
           { text: "Introduction", link: "/textes/intro" },
           { text: "Donner et demander", link: "/textes/giveAndAsk" },
@@ -37,12 +37,24 @@ export default {
         text: "Bible",
         items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
       },
-
-      { text: "Code", link: "https://www.jmax.dev/" },
-      { text: "Art", link: "https://www.jmxi.art/" },
-      { text: "A propos", link: "/about" },
+      {
+        text: "Plus",
+        items: [
+          { text: "Code", link: "https://www.jmax.dev/" },
+          { text: "Art", link: "https://www.jmxi.art/" },
+          { text: "A propos", link: "/about" },
+        ],
+      },
     ],
     sidebar: [
+      {
+        text: "Textes courts",
+        items: [
+          { text: "Introduction", link: "/textes/intro" },
+          { text: "Donner et demander", link: "/textes/giveAndAsk" },
+          { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
+        ],
+      },
       {
         text: "Poèmes",
         items: [
@@ -51,14 +63,7 @@ export default {
           { text: "Je pleure des oreilles", link: "/poemes/crying" },
         ],
       },
-      {
-        text: "Textes",
-        items: [
-          { text: "Introduction", link: "/textes/intro" },
-          { text: "Donner et demander", link: "/textes/giveAndAsk" },
-          { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
-        ],
-      },
+
       {
         text: "Essais",
         items: [
@@ -78,5 +83,6 @@ export default {
       message:
         "Version 1, site en ligne depuis juillet 2022. Textes datant de 2016 à aujourd'hui.",
     },
+    lastUpdatedText: "Dernière mise à jour",
   },
 };
