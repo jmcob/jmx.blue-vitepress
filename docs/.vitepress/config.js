@@ -36,7 +36,6 @@ export default {
         items: [
           { text: "Bourrasque", link: "/bourrasque" },
           { text: "Je pleure des oreilles", link: "/crying" },
-          { text: "Toujours rendre grace", link: "/rendreGrace" },
         ],
       },
       {
@@ -44,6 +43,7 @@ export default {
         items: [
           { text: "Introduction", link: "/intro" },
           { text: "Donner et demander", link: "/giveAndAsk" },
+          { text: "Toujours rendre grace", link: "/rendreGrace" },
         ],
       },
       {
