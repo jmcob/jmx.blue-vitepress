@@ -1,7 +1,9 @@
 # A propos de ce site
 
 ::: info
-Version 1, juillet 2022
+Version 1, en ligne depuis juillet 2022
 
-par Jean-Maxime Cobac
+Textes écrits entre 2016 et aujourd'hui.
+
+Jean-Maxime Cobac
 :::

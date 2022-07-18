@@ -5,6 +5,7 @@ export default {
   description: "Quelques mots",
   themeConfig: {
     logo: "https://en.unesco.org/sites/default/files/open-book.png",
+
     nav: [
       {
         text: "Poèmes",
@@ -73,5 +74,9 @@ export default {
         items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
       },
     ],
+    footer: {
+      message:
+        "Version 1, site en ligne depuis juillet 2022. Textes datant de 2016 à aujourd'hui.",
+    },
   },
 };

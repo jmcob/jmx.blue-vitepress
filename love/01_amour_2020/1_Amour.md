@@ -1,5 +1,4 @@
 # Amour, entier
-#Amour
 
 [file:79690E15-F058-40D6-B597-936689387CB8-5587-000004AA1C5E56B9/Amour Sq75i.docx]
 
@@ -46,7 +45,7 @@ Salve Regina	110
  
 # Tome 1 : les erreurs de jeunesse ou les montagnes russes
 
-## Bourrasque /
+<!-- ## Bourrasque /
 
 *Viens Esprit Saint
 
@@ -65,26 +64,23 @@ Sagesse et bonté :
 Le dessin de tes traits. 
 Enfin !
 Naître en poésie, 
-Sans bruit.
+Sans bruit. -->
  
-
-
-
 ## Introduction /
 
-Voici une dissertation parfois onirique sur l’Amour, qui tantôt tend vers la didactique, tantôt vers la fiction ou encore d’autres genres.
+<!-- Voici une dissertation parfois onirique sur l’Amour, qui tantôt tend vers la didactique, tantôt vers la fiction ou encore d’autres genres.
 C’est à la lumière du Dieu de l'Univers que j’ai pris cette plume. Je cherche à rassembler, non à disperser. Je suis pour l’Amour, l’Amour qui va jusqu’au bout des choses, en Dieu, en Jésus le Christ. L’Amour est le but ultime de chaque homme, consciemment ou non. Il peut être le point final de nos vies. « Le rêve d’une vie c’est l’Amour » dira Cendrillon accompagnée des oiseaux et des souris, se levant un matin avec le soleil, telle une fleur, avant de faire le ménage de la maison de sa belle-mère. Je partage avec Cendrillon.
 La violence ne résoudra rien, notre colère non plus. Mais ce texte ne va pas les nier.
   J’estime, en effet, qu’il n’y a pas de commune mesure entre les souffrances du temps présent et la gloire qui va être révélée pour nous .
 Je crois que chacun a un rôle à jouer dans le monde pour le rendre meilleur et accéder au royaume de cieux. J’aime devenir fou pour devenir sage . J’aime me réduire à néant pour retrouver mon Dieu. J’ai conscience que je ne suis rien mais que je veux tout. Je n’y parviens pas à chaque fois mais je ne trouve pas la paix tant que je ne suis pas exaucé .
 Je ne sais pas plus que vous ce qu’est l’Amour. Apprenez-moi d’une manière ou d’une autre, un jour ou l’autre.
-Bonne lecture.
+Bonne lecture. -->
 
-Toujours rendre grâce. /
+<!-- Toujours rendre grâce. /
 J’ai fauté, nous sommes divorcés. Je te demande la grâce, ô Seigneur, que nous nous retrouvions dans l’Amour l’un de l’autre. Je m’abaisserai à tes pieds, je veux ton cœur, tes bras, ta douceur, ta candeur. Si tu pouvais l’étreindre encore je serais pleinement celui que tu aimes. Si tu pouvais me réparer alors je donnerais ton amour aussi à mes proches. Je te les offre tel un maigre présent que j’ai réussi à gagner pendant la vie, et pas sans ton aide. Daigne accepter le peu que je suis et prends-moi une nouvelle fois pour ton épouse, pour eux, pas pour moi. Fais de moi une nouvelle Marie, une grâce, pour eux et pour toi.
 J’attendrai l’heure du thé pour te trouver. Je t’espère, pour moi, ici-bas comme là-haut, c’est toi, ô mon Seigneur. Descend jusqu’à moi. Prends ma main, mets-y une bague que j’espère de tout mon cœur, pour eux pas pour moi. Je n’aspire qu’à ton amour, moi le pion de cette assemblée, moi le rejeton de tes prophètes.
 Prends-moi comme ton Amour, que nous le distribuions autour de nous.
-Je t’aime. 
+Je t’aime.  -->
 
 
 
@@ -121,7 +117,7 @@ Il semble que ce soit tout le temps que Dieu guette à notre porte, un jour d’
 
 
 
-## Chapitre Deux : les lys abandonnés /
+<!-- ## Chapitre Deux : les lys abandonnés /
 
 Ils avaient pourtant bonne odeur, 
 Le charme de toutes les fleurs.
@@ -142,7 +138,7 @@ Vous voyez ma mie nous étions amis mais c’est compromis,
 C’est que loin de toi touche mon désarroi bouche de ne pas être roi,
 D’une reine sans faille qui d’un feu de paille rit et fait un brasier,
 Mais mon grand cœur d’émaille, c’est en vain qu’il essaye de prendre ton étoile.
-/
+/ -->
 
 
 Voilà, en comparaison avec la jeunesse que l’Amour veut donner, nous sommes léthargiques. Aujourd’hui, c’est la désolation.
@@ -230,7 +226,7 @@ Que le Christ habite en vos cœurs par la foi, que vous soyez enracinés, fondé
 
 
 
-## Chapitre Quatre : la liberté dans la charité /
+<!-- ## Chapitre Quatre : la liberté dans la charité /
 
 
 Un petit texte qui décape et provoque
@@ -304,15 +300,8 @@ A lire aussi, dans la Bible :
 · 	Zachée, Luc 19
 · 	Veillez et priez, Luc 21,34
 
- 
-
-
 
 ## Chapitre Cinq : il y a une Mère qui t’aime
-
-
- 
-
 
 A Cana, si Marie avait eu un péché, elle se serait confessée devant la justice et la puissance du Dieu incarné, Jésus, pour croire à l'évangile. D’après ce qu’elle dit, tout montre qu’évidemment elle sait qui est Jésus en vérité.
 Dès les premiers moments de la scène, avant le moindre signe de Jésus, elle intercède auprès de son Fils. Devant un apparent refus, elle finit par dire :
@@ -330,7 +319,7 @@ Oui, bienheureuse celle qui a cru en l'accomplissement de ce qui lui a été dit
 Nous l'avons dit, Abraham avait le désir d'un enfant avec sa femme. Je vous pose cette question, secrète, insolvable pour moi aujourd'hui, quel était le désir de Marie ? Croyait t’elle pouvoir porter le Messie, l'enfant de Dieu, jusqu'où avait t'elle déjà conscience du plan de Dieu, secrètement et humblement ?
 Je n'ai pour réponse qu'un doux sourire, un sourire indéfinissable, irreconnaissable de l'extérieur, le genre de sourire que si on l'arborait certains pourrait peut-être nous demander de sourire justement. La béatitude de Marie n'est pas de ce monde. La mère de Dieu et mère de l'église, non contente de ne pas avoir coupé le moindre cordon ombilical, sait aussi créer ceux qui manquent. Le lien du cœur, le lien de filiation adoptive, spirituelle, envers ses Fils, volontairement accepté car désiré. Un désir non pas d'être pour les autres mais de porter le monde dans son Amour, un réseau de charité qui enserre chaque croyant dans le cœur d'une femme pure qui rêvait non seulement de son salut, mais aussi de celui des autres au point de les accueillir pour l'éternité dans un cœur qui n'a pas connu le péché, une maison d'or.
 Prie pour nous sainte mère de Dieu afin que nous soyons rendus dignes des promesses de Jésus Christ. Marie je te remercie pour ta paix, ton sens de l'accueil, du rassemblement de ceux qui n'ont pas été gâtés par ce monde. Je te remercie d'avoir pensé à moi, de me diriger, t'offre mon cœur, mes blessures, pour que tu en fasses comme bon te semble car j'ai confiance en toi. A Cana, tu as vu les manques de ceux qui aspiraient à être tes enfants, leur manques spirituels comme matériels, jusque dans la subtilité. Je te remets mes manques et ceux de mes frères, pour que moi aussi comme un bon serviteur je ne manque pas de servir notre Dieu. Donne-moi de t'aimer, par Jésus s'il te plait. Tu connais comme moi cette dimension de recherche du Christ dans mon cœur que j'ai. Modèle-moi, et apprends-moi à aimer. Amen. 
-
+ -->
 
 
 ## Chapitre Six : la montée
@@ -494,8 +483,6 @@ Sans toi je serai embourbé. Cette soirée ne finira jamais pour nous deux. Pour
 
 
 ## Chapitre Huit : chaussons les skis !
-
- 
 
 S’ils se trompent sur toi
 Ils se tromperont sur moi
