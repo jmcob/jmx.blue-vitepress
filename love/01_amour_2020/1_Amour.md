@@ -418,19 +418,16 @@ Confiance. Ce n'est pas la connaissance qui mène seule au pardon. C'est un acte
 Jésus j’ai confiance en Toi 
 	Ainsi attention, la confiance nous permet de ne pas tomber dans une formule toute faite, comme en conclue Jésus après la rencontre de l’aveugle né, face aux pharisiens :
 Si vous étiez aveugles, vous n'auriez pas de péché. Mais maintenant vous dites : nous voyons. C'est pour cela que votre péché demeure. 
- 
-
-
 
 ## Chapitre Sept : le sommet
 
- Alors que vous et moi rêvassions tendrement, 
+ <!-- Alors que vous et moi rêvassions tendrement, 
  c'était un lendemain d'alcool évidemment, 
  cette musique est passée comme un courant d'air,
  frais et sédatif. Il y avait alors deux choix, 
  se relever sans trébucher ou succomber.
  Si démarrer signifiait appuyer sur pause, 
- au fond que seraient vraiment nos cœurs sans hypnose ? 
+ au fond que seraient vraiment nos cœurs sans hypnose ?  -->
 
 Ce texte illustre très mal ce à quoi je voudrais vous amener. Il est un point de départ sentimental pour moi, je fais ici mémoire de mon bourbier, sans vous le dévoiler complètement. Je vais vous montrer pour moi sa sortie progressive. 
 En 2009, j’ai vécu une séparation, comme d’autres en ont vécu, une séparation douloureuse, comme en témoigne le poème. Aujourd'hui la douleur s'en est allée. Seulement au moment relaté par ce poème, je ne voyais pas plus loin que le bout de mon nez : une vraie girouette sentimentale ! J’ai ainsi rencontré un psychiatre.
@@ -466,12 +463,12 @@ Si vous avez dit non, vous n’êtes pas punis. Vous pouvez quand même continue
 Que rien ne te trouble, que rien ne t'épouvante, Dieu seul suffit. Qui à Dieu ne manque de rien. La patience obtient tout, ô mon âme. 
 	Parfois je regarde vers le bas dans ces moments où je ne suis pas fier de moi. Je regarde avec déception ou colère, en un mot avec orgueil. Parfois je reste dans cette position, parfois Dieu m’en fait sortir. Mais je peux toujours accepter ma petitesse (vous comprendrez que je n’invente rien). Petite sainte Thérèse, prie encore pour nous.
 
-Acte de consécration total à l'Amour de Dieu
+<!-- Acte de consécration total à l'Amour de Dieu
 Merci. Merci pour tout. Merci Seigneur, de me convier en ce jour en ta présence. Merci de me faire comprendre l'importance de ton Amour dans nos vies, nos vies à tous. Merci en ce jour de bénir tous ceux que je porte en mon cœur. Inonde-les de ton Amour. Je te les offre tel ce don d'agréable odeur qui j'espère t'enivre. Merci pour leur amour, le voici. 
 Aujourd'hui et en leur présence dans la foi, je t'offre ce que je suis en totalité, je t'offre mon amour, mon cœur et tous mes biens, passés présents et à venir, de toute nature. Je me consacre à ton Amour, en prenant Marie ta mère comme témoin. Je m'engage à en suivre la voie, merci de me l'indiquer à chaque instant en me rappelant que l’Amour est la solution dernière à la vie. Je m'en remets à ton Amour pour chacun de ces moments qui passent à l'attendre en plénitude. Merci de nous réunir dans l'unité par cette consécration à l'Amour divin. 
 Merci de me marquer du sceau de ton Amour en mon cœur : la présence de Jésus en celui-ci, assurance et espérance du salut en mon âme. Merci de m'apprendre à aimer, toi mon Dieu, et chaque créature à chaque moment.
 Amen.
-Écrit sur la musique des Beatles "Let it be" le 26 mai 2017
+Écrit sur la musique des Beatles "Let it be" le 26 mai 2017 -->
 
 Lettre à une créature
 Je t'attends, j'ai envie de t'aimer, tu n'as pas idée du potentiel d'Amour que toi et moi nous pourrions rayonner. Tu me complètes.
@@ -595,13 +592,13 @@ Pause.
 Paaaaause !
 
 
-La comète de Halley
+<!-- La comète de Halley
 Une période d’environ 80 ans, ce qu’il faut pour que chaque homme la voit une fois, certains deux fois, mais pas sûr que ça soit en conscience les deux fois.
 La comète de Halley est une merveille de ce monde. Son passage périodique, mesuré et objectivé est l’assurance qu’en ce monde elle reviendra jusqu’à la fin des temps. La comète de Halley, c’est presque le symbole de la chance unique dans la vie, de partir vers l’infini avec elle et de revenir 80 après comme si de rien n’était.
 La comète de Halley, c’est comme si on saisissait l’esprit au bon moment pour un voyage de noces sans fin.
 L’Amour est une comète de Halley à saisir, à ne pas manquer, à condition d’avoir du pouvoir d’achat : une place suffisante dans votre cœur creusée peut être par la prière, la vie ou les amis. C’est tout, le reste, elle s’en occupe.
 Ne vous tracassez pas, ne vous accablez pas. Accrochez-vous ! Demain vous verrez un bonheur émergent, n’oubliez pas que la traînée indique la direction opposée au grand astre président au jour et pas sa trajectoire !
-Comme disent les scientifiques, vous y trouverez peut-être une forme de vie élémentaire ou un acide aminé particulier, une singularité physico-chimique, Qu’importe. L’essentiel, c’est l’Amour. -->
+Comme disent les scientifiques, vous y trouverez peut-être une forme de vie élémentaire ou un acide aminé particulier, une singularité physico-chimique, Qu’importe. L’essentiel, c’est l’Amour. --> -->
 
 Viens Esprit-Saint
 « Je crois au Saint-Esprit,

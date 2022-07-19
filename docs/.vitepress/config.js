@@ -13,6 +13,7 @@ export default {
           { text: "Bourrasque", link: "/poemes/bourrasque" },
           { text: "Les lys abandonnés", link: "/poemes/lysAbandonnes" },
           { text: "Je pleure des oreilles", link: "/poemes/crying" },
+          { text: "Sans titre", link: "/poemes/hypnose" },
         ],
       },
       {
@@ -21,6 +22,11 @@ export default {
           { text: "Introduction", link: "/textes/intro" },
           { text: "Donner et demander", link: "/textes/giveAndAsk" },
           { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
+          {
+            text: "Consécration à l'Amour de Dieu",
+            link: "/textes/consecration",
+          },
+          { text: "La comète de Halley", link: "/textes/halley" },
         ],
       },
       {
@@ -53,6 +59,11 @@ export default {
           { text: "Introduction", link: "/textes/intro" },
           { text: "Donner et demander", link: "/textes/giveAndAsk" },
           { text: "Toujours rendre grace", link: "/textes/rendreGrace" },
+          {
+            text: "Consécration à l'Amour de Dieu",
+            link: "/textes/consecration",
+          },
+          { text: "La comète de Halley", link: "/textes/halley" },
         ],
       },
       {
@@ -61,6 +72,7 @@ export default {
           { text: "Bourrasque", link: "/poemes/bourrasque" },
           { text: "Les lys abandonnés", link: "/poemes/lysAbandonnes" },
           { text: "Je pleure des oreilles", link: "/poemes/crying" },
+          { text: "Sans titre", link: "/poemes/hypnose" },
         ],
       },
 
