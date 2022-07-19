@@ -41,7 +41,10 @@ export default {
       },
       {
         text: "Bible",
-        items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
+        items: [
+          { text: "148 gros pains de vie", link: "/bible/grosPains" },
+          { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
+        ],
       },
       {
         text: "Plus",
@@ -88,7 +91,10 @@ export default {
       },
       {
         text: "Bible",
-        items: [{ text: "Ephésiens 3,14-19", link: "/bible/ep314" }],
+        items: [
+          { text: "148 gros pains de vie", link: "/bible/grosPains" },
+          { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
+        ],
       },
     ],
     footer: {
