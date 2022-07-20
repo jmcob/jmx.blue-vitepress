@@ -4,8 +4,8 @@ export default {
   title: "jmx.blue",
   description: "Quelques mots",
   themeConfig: {
-    logo: "https://en.unesco.org/sites/default/files/open-book.png",
-
+    lastUpdatedText: "Dernière mise à jour",
+    logo: "/open-book.png",
     nav: [
       {
         text: "Poèmes",
@@ -101,6 +101,5 @@ export default {
       message:
         "Version 1, site en ligne depuis juillet 2022. Textes datant de 2016 à aujourd'hui.",
     },
-    lastUpdatedText: "Dernière mise à jour",
   },
 };
