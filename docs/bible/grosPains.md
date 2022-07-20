@@ -1,6 +1,6 @@
 # Gros pains de vie
 
-Vous trouverez ici en PDF de [gros pains de vie libres de droit](http://jmxi.art/pains/148-pains-de-vie.pdf) sélectionnés par notre équipe d'adorateurs du très saint sacrement.
+Vous trouverez ici en PDF de [gros pains de vie libres de droit](http://jmxi.art/pains/148-pains-de-vie.pdf) sélectionnés par notre équipe d'adorateurs du très saint sacrement du Sacré-Coeur de Bordeaux.
 
 Ils sont plus gros, plus nourrissant, pour une meilleure prière avec
 notre Seigneur !
