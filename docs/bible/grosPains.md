@@ -10,7 +10,7 @@ Ils sont destinés à être utilisés dans l'Eglise.
 
 Il y a 83 pains issus de psaumes et 65 issus du reste de la Bible.
 
-<style>
+<style scoped>
 em {
     font-size: large;
 }
