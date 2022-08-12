@@ -95,7 +95,10 @@ export default {
       {
         text: "Bible",
         items: [
-          { text: "148 gros pains de vie", link: "/bible/grosPains" },
+          {
+            text: "www.uneparole.love",
+            link: "http://www.uneparole.love/",
+          },
           { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
         ],
       },
