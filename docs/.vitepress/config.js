@@ -44,7 +44,7 @@ export default {
         items: [
           {
             text: "www.uneparole.love",
-            link: "http://www.uneparole.love/pains/pains-de-vie.pdf",
+            link: "http://www.uneparole.love/",
           },
           { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
         ],
