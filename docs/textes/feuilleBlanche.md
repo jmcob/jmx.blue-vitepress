@@ -66,4 +66,5 @@ qui nous permettrons de rejoindre Dieu
 -
 
 Réjouissons nous et gardons le cap,
+
 Dans la paix du christ.
