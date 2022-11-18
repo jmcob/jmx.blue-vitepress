@@ -23,6 +23,10 @@ export default {
                 text: "Textes courts",
                 items: [
                     { text: "Introduction", link: "/textes/intro" },
+                    {
+                        text: "Test de la feuille blanche",
+                        link: "/textes/feuilleBlanche",
+                    },
                     { text: "Donner et demander", link: "/textes/giveAndAsk" },
                     {
                         text: "Toujours rendre grace",
@@ -72,6 +76,10 @@ export default {
                 text: "Textes courts",
                 items: [
                     { text: "Introduction", link: "/textes/intro" },
+                    {
+                        text: "Test de la feuille blanche",
+                        link: "/textes/feuilleBlanche",
+                    },
                     { text: "Donner et demander", link: "/textes/giveAndAsk" },
                     {
                         text: "Toujours rendre grace",
