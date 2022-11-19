@@ -37,6 +37,10 @@ export default {
                         link: "/textes/consecration",
                     },
                     { text: "La comète de Halley", link: "/textes/halley" },
+                    {
+                        text: "Autre test de la feuille blanche",
+                        link: "/textes/feuilleBlancheDeux",
+                    },
                 ],
             },
             {
@@ -90,6 +94,10 @@ export default {
                         link: "/textes/consecration",
                     },
                     { text: "La comète de Halley", link: "/textes/halley" },
+                    {
+                        text: "Autre test de la feuille blanche",
+                        link: "/textes/feuilleBlancheDeux",
+                    },
                 ],
             },
             {
