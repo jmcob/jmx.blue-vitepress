@@ -5,7 +5,7 @@ title: Dieu est amour
 
 hero:
   name: Dieu est amour
-  text: Essai sur la joie d'aimer en Dieu
+  text: Lui dire encore "oui" à partir de quelques textes.
   image:
     src: /77777490.jpeg
     alt: Jesus in psy land
@@ -18,15 +18,16 @@ hero:
       link: /textes/consecration
 features:
     - icon: 😴
-      title: Un texte onirique
+      title: Un style onirique
       details: car nous rêvons tous de son amour !
     - icon: 😇
-      title: Un texte unique dans le fond, multiple dans les genres,
-      details: où la poésie et la Parole de Dieu sont de rigueur !
+      title: Un recueil unique dans le fond, multiple dans les genres,
+      details: où la poésie et la Parole de Dieu sont de mise !
     - icon: ♡
       title: Simple and minimal, always
       details: But not for English speakers yet !
 ---
+
 
 <style>
 img {
