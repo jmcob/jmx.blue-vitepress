@@ -1,14 +1,30 @@
 ---
-title: Home
-layout: doc
+
+layout: home
+
+hero:
+  name: jmx.blue
+  text: Essai sur l'amour de Dieu
+  image:
+    src: /jesus.jpg
+    alt: Jesus in psy land
+  actions:
+    - theme: brand
+      text: Lire l'introduction ...
+      link: /textes/intro
+    - theme: alt
+      text: ou directement la consécration !
+      link: /textes/consecration
+features:
+    - icon: 😴
+      title: Un texte onirique
+      details: car nous rêvons tous de son amour !
+    - icon: 😇
+      title: Un texte unique dans le fond, multiple dans les genres,
+      details: ou la poésie et la Parole de Dieu sont de rigueur !
+    - icon: ♡
+      title: Simple and minimal, always
+      details: But not for English speakers yet !
 ---
 
-## jmx.blue est un essai sur l'amour de Dieu
 
-Nous le chercherons ensemble si vous le voulez bien.  
-
-*Cette graine plantée aujourd'hui sera un jour un arbre, un arbre tendu vers le Seigneur, une échelle de Jacob.*
-
-N'hésitez pas a parcourir les différents documents dans l'ordre que vous voulez. Le tout reste à consistance onirique, mais concrète si vous cherchez la profondeur.
-
-Bonne lecture.
