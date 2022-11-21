@@ -6,7 +6,7 @@ hero:
   name: jmx.blue
   text: Essai sur l'amour de Dieu
   image:
-    src: /jesus.jpg
+    src: /77777490.jpeg
     alt: Jesus in psy land
   actions:
     - theme: brand

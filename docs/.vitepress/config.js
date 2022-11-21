@@ -139,7 +139,7 @@ export default {
         ],
         footer: {
             message:
-                "Version 1, site en ligne depuis juillet 2022. Textes datant de 2016 à aujourd'hui.",
+                "Version 1.1, site en ligne depuis juillet 2022, mis à jour en novembre 2022. Textes datant de 2009 à aujourd'hui.",
         },
     },
 };
