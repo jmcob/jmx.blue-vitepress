@@ -1,10 +1,11 @@
 ---
 
 layout: home
+title: Dieu est amour
 
 hero:
-  name: jmx.blue
-  text: Essai sur l'amour de Dieu
+  name: Dieu est amour
+  text: Essai sur la joie d'aimer en Dieu
   image:
     src: /77777490.jpeg
     alt: Jesus in psy land
@@ -21,7 +22,7 @@ features:
       details: car nous rêvons tous de son amour !
     - icon: 😇
       title: Un texte unique dans le fond, multiple dans les genres,
-      details: ou la poésie et la Parole de Dieu sont de rigueur !
+      details: où la poésie et la Parole de Dieu sont de rigueur !
     - icon: ♡
       title: Simple and minimal, always
       details: But not for English speakers yet !
