@@ -11,10 +11,10 @@ hero:
     alt: Jesus in psy land
   actions:
     - theme: brand
-      text: Lire l'introduction ...
+      text: Lire l'introduction
       link: /textes/intro
     - theme: alt
-      text: ou directement la consécration !
+      text: ... ou directement la consécration !
       link: /textes/consecration
 features:
     - icon: 😴
