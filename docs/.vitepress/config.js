@@ -64,6 +64,7 @@ export default {
                         link: "http://www.uneparole.love/",
                     },
                     { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
+                    { text: "Amos 3,3", link: "/bible/amos33" },
                 ],
             },
             {
@@ -134,6 +135,7 @@ export default {
                         link: "http://www.uneparole.love/",
                     },
                     { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
+                    { text: "Amos 3,3", link: "/bible/amos33" },
                 ],
             },
         ],
