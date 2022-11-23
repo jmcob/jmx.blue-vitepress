@@ -5,7 +5,7 @@ title: Dieu est amour
 
 hero:
   name: Dieu est amour
-  text: Lui dire encore 'oui' à partir de quelques textes.
+  text: Dire 'oui' à partir de quelques textes.
   image:
     src: /77777490.jpeg
     alt: Jesus in psy land
