@@ -60,8 +60,8 @@ export default {
                 text: "Bible",
                 items: [
                     {
-                        text: "www.uneparole.love",
-                        link: "http://www.uneparole.love/",
+                        text: "www.uneparole.com",
+                        link: "http://www.uneparole.com/",
                     },
                     { text: "Ephésiens 3,14-19", link: "/bible/ep314" },
                     { text: "Amos 3,3", link: "/bible/amos33" },
