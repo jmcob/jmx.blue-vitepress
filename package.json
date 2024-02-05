@@ -13,5 +13,9 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "n": "^9.2.0"
   }
 }
