@@ -68,12 +68,7 @@ export default {
                 ],
             },
             {
-                text: "Plus",
-                items: [
-                    { text: "Code", link: "https://www.jmax.dev/" },
-                    { text: "Art", link: "https://www.jmxi.art/" },
-                    { text: "A propos", link: "/about" },
-                ],
+                text: "A propos", link: "/about",
             },
         ],
         sidebar: [
